@@ -1,4 +1,4 @@
-#Responsive Website Using HTML and CSS
+# Responsive Website Using HTML and CSS
 
 This is a simple static website I built with HTML and CSS in the process of learning about Responsive web design.
 
